@@ -16,6 +16,7 @@ picker.objectName
 $input.pickadate(methodName, argument1, argument2, ...)
 $input.pickadate(objectName)
 
+// http://amsul.ca/pickadate.js/api/
 ```
 
 ```
