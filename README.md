@@ -19,6 +19,7 @@ $input.pickadate(objectName)
 // http://amsul.ca/pickadate.js/api/
 ```
 
-```
+```js
+//
 ```
 
